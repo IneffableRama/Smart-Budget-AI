@@ -1,0 +1,17 @@
+You’ll build your project in modules, so you can test each part before integration.
+
+Modules:
+	1.	Bank Statement Parser
+→ Extract data from CSV/PDF.
+	2.	Data Cleaning & Categorization
+→ Standardize and classify transactions.
+	3.	Spending Analysis Module
+→ Generate category-wise summaries and habits.
+	4.	ML Prediction Module
+→ Predict future spending or detect overspending trends.
+	5.	Budget Optimizer
+→ Create before/after budget views.
+	6.	AI Recommendation Agent
+→ Suggest how to meet the savings goal.
+	7.	Dashboard Interface
+→ Visualize everything with graphs and tables.
