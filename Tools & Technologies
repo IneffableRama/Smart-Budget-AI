@@ -1,0 +1,10 @@
+Language: Python
+Libraries:
+	Data Processing → pandas, numpy
+	•	PDF Parsing → PyPDF2, pdfplumber
+	•	OCR (if statements are scanned) → pytesseract, opencv-python
+	•	Machine Learning → scikit-learn, xgboost, tensorflow (for prediction)
+	•	Visualization → matplotlib, seaborn, or plotly
+	•	Dashboard (optional) → Streamlit or Flask
+	•	Storage: Local CSV or SQLite (for now)
+	•	IDE: VS Code or Jupyter Notebook
